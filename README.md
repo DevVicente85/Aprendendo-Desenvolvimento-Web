@@ -1,2 +1,3 @@
-# Exerc-cio
-Aprendendo os Conceitos Básicos de HTML5 e CSS3.
+**Fundamentos de HTML e CSS**
+
+Descrição: Aprendizado dos conceitos fundamentais de **HTML**, incluindo a estruturação de páginas web por meio de elementos como títulos, parágrafos, imagens, links e formulários. Além disso, desenvolvimento de conhecimentos em **CSS** para estilização de páginas, utilizando recursos como cores, fontes, margens, espaçamentos, bordas e layouts, tornando as interfaces mais organizadas e visualmente atrativas.
